@@ -99,7 +99,8 @@
           <a href="https://twitter.com/Apelng" class="footer-social-icon" target="_blank"><i class="fab fa-twitter"></i></a>
         </div>
         <div class="footer-legal">
-          <p>&copy; 2025 All rights reserved &nbsp;|&nbsp; Apel Capital &amp; Trust Limited</p>
+          <p>&copy; 2026 All rights reserved &nbsp;|&nbsp; Apel Capital &amp; Trust Limited</p>
+          <p>Apel Capital &amp; Trust Limited is registered and regulated by the Securities and Exchange Commission, Nigeria.</p>
         </div>
       </div>
     </div><!-- /.footer-bottom -->
