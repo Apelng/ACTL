@@ -19,14 +19,14 @@
       <!-- Brand -->
       <div class="footer-brand">
         <a href="${root}index.html" class="footer-logo">
-          <img src="${root}img/favicon.png" alt="Apel Capital & Trust">
+          <img src="${root}img/favicon.png" alt="Apel Trustees">
         </a>
         <p class="footer-tagline">Nigeria's leading financial services group, delivering trusted solutions across capital markets, trusteeship, and wealth management.</p>
         <p class="footer-companies-label">Our Companies</p>
         <div class="footer-company-links">
           <a href="https://apel.com.ng">Home</a>
           <a href="https://asset.apel.com.ng">Apel Asset Limited</a>
-          <a href="https://trust.apel.com.ng">Apel Capital &amp; Trust Limited</a>
+          <a href="https://trust.apel.com.ng">Apel Trustees Limited</a>
           <a href="https://registrars.apel.com.ng/">Apel Capital Registrars Limited</a>
           <a href="https://wealth.apel.com.ng">Apel Wealth Management Limited</a>
         </div>
@@ -99,8 +99,8 @@
           <a href="https://twitter.com/Apelng" class="footer-social-icon" target="_blank"><i class="fab fa-twitter"></i></a>
         </div>
         <div class="footer-legal">
-          <p>&copy; 2026 All rights reserved &nbsp;|&nbsp; Apel Capital &amp; Trust Limited</p>
-          <p>Apel Capital &amp; Trust Limited is registered and regulated by the Securities and Exchange Commission, Nigeria.</p>
+          <p>&copy; 2026 All rights reserved &nbsp;|&nbsp; Apel Trustees Limited</p>
+          <p>Apel Trustees Limited is registered and regulated by the Securities and Exchange Commission, Nigeria.</p>
         </div>
       </div>
     </div><!-- /.footer-bottom -->
